@@ -792,7 +792,7 @@ header nav .form i {
 .quote {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("/images/back\ qoutes.jpg");
+  background-image: url("/template 2/images/back\ qoutes.jpg");
   background-size: cover;
   position: relative;
   background-position: center;
@@ -1121,7 +1121,7 @@ q::after {
 .footer {
   padding-top: calc(var(--section-padding) / 2);
   padding-bottom: calc(var(--section-padding) / 2);
-  background-image: url("/images/earth.jpg");
+  background-image: url("/template 2/images/earth.jpg");
   background-size: cover;
   position: relative;
   color: white;
