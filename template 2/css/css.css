@@ -278,10 +278,6 @@ header nav .form i {
   .landing .change-background {
     display: none;
   }
-  .landing .text .content h2 {
-    font-size: 25px;
-    color: #ffeb3bed;
-  }
 }
 .landing .fa-angle-left {
   left: 30px;
